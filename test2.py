@@ -25,7 +25,6 @@
 
 # # функция менеджер, которая распределяет вызов других функций
 
-book = {'Financial': 'Theodor Draiser', 'Rich dad, poor dad': 'Robert Kiyosaki', 'Think and get rich': 'Napoleon Hill'}
 books = {'Financial': 'Theodor Draiser', 'Rich dad, poor dad': 'Robert Kiyosaki', 'Think and get rich': 'Napoleon Hill'}
 users = {}
 def us():
